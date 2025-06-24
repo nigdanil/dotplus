@@ -1,5 +1,7 @@
 # 🧩 DotPlus — QR & Barcode Generator
 
+![GitHub release (latest by date)](https://img.shields.io/github/downloads/nigdanil/dotplus/latest/total?label=Downloads&style=flat-square)
+
 **DotPlus** is a cross-platform tool for generating **QR codes** and **barcodes** (EAN-13, EAN-8, Code 39, Code 93, Codabar), optimized for A4 printing and compatible with label printers.
 
 > **🇷🇺 Русская версия ниже**
