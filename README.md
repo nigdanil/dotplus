@@ -1,4 +1,4 @@
-🐧 DotPlus — Linux Release
+# 🐧 DotPlus — Linux Release
 
 ## 🇷🇺 Русский (RU)
 
