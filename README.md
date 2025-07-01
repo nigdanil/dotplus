@@ -26,7 +26,7 @@
 |----------|--------|------|
 | 🚀 Windows | ✅ Stable | [`release-win`](https://github.com/nigdanil/dotplus/tree/release-win) |
 | 🐧 Linux   | 🚧 In progress | [`release-linux`](https://github.com/nigdanil/dotplus/tree/release-linux) |
-| 🐳 Docker  | 🔜 Planned | [`release-docker`](https://github.com/nigdanil/dotplus/tree/release-docker) |
+| 🐳 Docker  | ✅ Stable | [`release-docker`](https://github.com/nigdanil/dotplus/tree/release-docker) |
 
 ---
 
