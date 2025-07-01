@@ -65,6 +65,21 @@ docker run --rm \
 
 ---
 
+Так же вы можете найти, демонстрационные данные и шаблоны для запуска:
+
+```
+examples/
+└── magnit/
+    ├── data/        # CSV-файлы с кодами
+    │   ├── barcode/ # Штрихкоды: EAN-13, Code-39 и др.
+    │   └── qr/      # QR-коды: с логотипом и без
+    ├── img/         # Сгенерированные изображения (PNG)
+    │   ├── barcode/ # Штрихкоды в PNG
+    │   └── qr/      # QR-коды в PNG и PDF
+    └── logo/        # Логотипы для вставки в QR
+```
+
+
 ### 🔧 Возможности
 
 * Генерация QR/штрихкодов из CSV
@@ -167,6 +182,20 @@ docker run --rm \
 ![Barcodes](examples/output/barcode-ean13.png)
 
 ---
+
+You can also find demo data and templates to run:
+
+```
+examples/
+└── magnit/
+    ├── data/        # CSV files with codes
+    │   ├── barcode/ # Barcodes: EAN-13, Code-39, etc.
+    │   └── qr/      # QR codes: with and without logos
+    ├── img/         # Generated images (PNG)
+    │   ├── barcode/ # Barcodes in PNG format
+    │   └── qr/      # QR codes in PNG and PDF formats
+    └── logo/        # Logos for embedding into QR codes
+```
 
 ### 🔧 Features
 
