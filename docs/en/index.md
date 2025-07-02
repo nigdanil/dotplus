@@ -12,16 +12,18 @@ CLI + GUI. CSV input. Offline mode. Logo support. A4-ready printing.
 
 ---
 
+/docs/assets/video/300_QR-Codes.mp4
+
 ## 🎥 How it works?
 ### GUI video
 <video autoplay loop muted playsinline controls>
-<source src="/dotplus/assets/video/GUI.mp4" type="video/mp4">
+<source src="/docs/assets/video/GUI.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 ### CLI video
 <video autoplay loop muted playsinline controls>
-<source src="/dotplus/assets/video/300_QR-Codes.mp4" type="video/mp4">
+<source src="/docs/assets/video/300_QR-Codes.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
