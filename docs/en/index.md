@@ -1,0 +1,38 @@
+---
+layout: default
+lang: en
+title: DotPlus — QR & Barcode Generator
+---
+
+## 🧩 DotPlus — QR & Barcode Generator for your sector
+
+CLI + GUI. CSV input. Offline mode. Logo support. A4-ready printing.
+
+🎯 Suitable for education, logistics, healthcare, construction, HoReCa, and government use.
+
+---
+
+## 🎥 How it works?
+
+<video autoplay loop muted playsinline controls>
+  <source src="/dotplus/assets/video/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
+## 🚀 Features
+
+- CLI + GUI (Windows / Linux)
+- QR and barcodes (EAN-13, Code 39, etc.)
+- Export to PNG / PDF for A4
+- CSV support, logo overlay, customization
+- Works fully offline
+
+---
+
+## 📬 Contact
+
+- GitHub: [nigdanil/dotplus](https://github.com/nigdanil/dotplus)
+- Telegram: [@NigDanil](https://t.me/NigDanil)
+- Email: danil.communication@gmail.com
