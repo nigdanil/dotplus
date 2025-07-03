@@ -32,7 +32,9 @@ CLI + GUI. Импорт из CSV. Работа офлайн. Логотипы. �
 ## 📸 Скриншоты программы
 <em>Ниже представлены интерфейсные окна и примеры выходных файлов</em>
 
-### 🖥️ Интерфейс (QR-коды)
+<details markdown="1">
+<summary><strong>🖥️ Интерфейс (QR-коды)</strong></summary>
+
 <div class="screenshot-gallery">
   <img src="/dotplus/assets/screenshots/ru/qr/ui/1.png" alt="GUI 1">
   <img src="/dotplus/assets/screenshots/ru/qr/ui/2.png" alt="GUI 2">
@@ -42,32 +44,49 @@ CLI + GUI. Импорт из CSV. Работа офлайн. Логотипы. �
   <img src="/dotplus/assets/screenshots/ru/qr/ui/6.png" alt="GUI 6">
   <img src="/dotplus/assets/screenshots/ru/qr/ui/7.png" alt="GUI 7">
   <img src="/dotplus/assets/screenshots/ru/qr/ui/8.png" alt="GUI 8">
- </div>
+</div>
+
+</details>
 
 ---
 
-### 🖥️ Интерфейс (Штрихкоды)
+<details markdown="1">
+<summary><strong>🖥️ Интерфейс (Штрихкоды)</strong></summary>
+
 <div class="screenshot-gallery">
   <img src="/dotplus/assets/screenshots/ru/barcodes/ui/1.png" alt="GUI 1">
   <img src="/dotplus/assets/screenshots/ru/barcodes/ui/2.png" alt="GUI 2">
   <img src="/dotplus/assets/screenshots/ru/barcodes/ui/3.png" alt="GUI 3">
-  
 </div>
+
+</details>
+
+---
 
 ## 🧾 Результаты генерации
 
-### 🔳 QR-коды
+<details markdown="1">
+<summary><strong>🔳 QR-коды</strong></summary>
+
 <div class="screenshot-gallery">
   <img src="/dotplus/assets/screenshots/ru/qr/res/1.png" alt="QR-code-1">
   <img src="/dotplus/assets/screenshots/ru/qr/res/2.png" alt="QR-code-2">
 </div>
 
-### 🔳 Штрихкоды
+</details>
+
+---
+
+<details markdown="1">
+<summary><strong>🔳 Штрихкоды</strong></summary>
+
 <div class="screenshot-gallery">
   <img src="/dotplus/assets/screenshots/ru/barcodes/res/1.png" alt="QR-code-1">
   <img src="/dotplus/assets/screenshots/ru/barcodes/res/2.png" alt="QR-code-2">
   <img src="/dotplus/assets/screenshots/ru/barcodes/res/3.png" alt="QR-code-3">
 </div>
+
+</details>
 
 ---
 
