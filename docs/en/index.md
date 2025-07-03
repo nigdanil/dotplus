@@ -27,6 +27,47 @@ CLI + GUI. CSV input. Offline mode. Logo support. A4-ready printing.
 </video>
 <p><em>↑ Command line batch generation (QR/Barcodes)</em></p>
 
+---
+
+## 📸 Application Screenshots
+<em>Below are interface windows and examples of output files</em>
+
+### 🖥️ Interface (QR Codes)
+<div class="screenshot-gallery">
+  <img src="/dotplus/assets/screenshots/en/qr/ui/1.png" alt="GUI 1">
+  <img src="/dotplus/assets/screenshots/en/qr/ui/2.png" alt="GUI 2">
+  <img src="/dotplus/assets/screenshots/en/qr/ui/3.png" alt="GUI 3">
+  <img src="/dotplus/assets/screenshots/en/qr/ui/4.png" alt="GUI 4">
+  <img src="/dotplus/assets/screenshots/en/qr/ui/5.png" alt="GUI 5">
+  <img src="/dotplus/assets/screenshots/en/qr/ui/6.png" alt="GUI 6">
+  <img src="/dotplus/assets/screenshots/en/qr/ui/7.png" alt="GUI 7">
+  <img src="/dotplus/assets/screenshots/en/qr/ui/8.png" alt="GUI 8">
+ </div>
+
+---
+
+### 🖥️ Interface (Barcodes)
+<div class="screenshot-gallery">
+  <img src="/dotplus/assets/screenshots/en/barcodes/ui/1.png" alt="GUI 1">
+  <img src="/dotplus/assets/screenshots/en/barcodes/ui/2.png" alt="GUI 2">
+  <img src="/dotplus/assets/screenshots/en/barcodes/ui/3.png" alt="GUI 3">
+  
+</div>
+
+## 🧾 Output Samples
+
+### 🔳 QR Codes
+<div class="screenshot-gallery">
+  <img src="/dotplus/assets/screenshots/en/qr/res/1.png" alt="QR-code-1">
+  <img src="/dotplus/assets/screenshots/en/qr/res/2.png" alt="QR-code-2">
+</div>
+
+### 🔳 Barcodes
+<div class="screenshot-gallery">
+  <img src="/dotplus/assets/screenshots/en/barcodes/res/1.png" alt="QR-code-1">
+  <img src="/dotplus/assets/screenshots/en/barcodes/res/2.png" alt="QR-code-2">
+  <img src="/dotplus/assets/screenshots/en/barcodes/res/3.png" alt="QR-code-3">
+</div>
 
 ---
 
