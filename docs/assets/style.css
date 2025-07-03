@@ -1,3 +1,8 @@
+/* Базовая стилизация */
+* {
+  box-sizing: border-box;
+}
+
 body {
   font-family: sans-serif;
   margin: 0;
@@ -6,10 +11,11 @@ body {
   color: #111;
 }
 
+/* Хедер */
 header {
   display: flex;
-  align-items: center;
   justify-content: space-between;
+  align-items: center;
   padding: 1rem 0;
   border-bottom: 1px solid #ddd;
 }
@@ -30,17 +36,11 @@ header {
   }
 }
 
-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-
 .lang-toggle {
   font-size: 0.9rem;
 }
 
+/* Контент и футер */
 main {
   max-width: 800px;
   margin: auto;
@@ -56,17 +56,20 @@ footer {
   color: #888;
 }
 
+/* Видео */
 video {
   max-width: 100%;
   margin: 1rem 0;
   border: 1px solid #ccc;
 }
 
+/* Галерея скриншотов */
 .screenshot-gallery {
   display: flex;
   flex-direction: column;
   gap: 1rem;
   margin-top: 1rem;
+  margin-bottom: 2rem;
 }
 
 .screenshot-gallery img {
@@ -87,3 +90,23 @@ video {
   }
 }
 
+.screenshot-gallery a img {
+  cursor: zoom-in;
+}
+
+/* Кнопки */
+.btn {
+  display: inline-block;
+  padding: 0.5em 1em;
+  margin: 0.3em;
+  background-color: #007acc;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: background-color 0.2s ease;
+}
+
+.btn:hover {
+  background-color: #005fa3;
+}

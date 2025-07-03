@@ -4,11 +4,25 @@ lang: en
 title: DotPlus — QR & Barcode Generator
 ---
 
-## 🧩 DotPlus — QR & Barcode Generator for your sector
+## ⚡ DotPlus — Offline QR & Barcode Generator  
+Generate professional QR and barcodes with no internet access.  
+Free for both personal and commercial use.
 
-CLI + GUI. CSV input. Offline mode. Logo support. A4-ready printing.
+---
 
-🎯 Suitable for education, logistics, healthcare, construction, HoReCa, and government use.
+## 💡 Why Choose DotPlus?
+
+- Fully offline — no internet required
+- GUI and CLI included
+- QR & barcode generation (PDF/PNG)
+- Supports logos and CSV input
+- Freeware under proprietary license
+
+
+<p style="margin: 1em 0;">
+  <a href="https://github.com/nigdanil/dotplus/releases" class="btn">⬇ Download for Windows/Linux</a>
+  <a href="https://github.com/nigdanil/dotplus" class="btn">💻 View on GitHub</a>
+</p>
 
 ---
 
@@ -115,6 +129,12 @@ CLI + GUI. CSV input. Offline mode. Logo support. A4-ready printing.
 {% include_relative applying_pro_en.md %}
 
 </details>
+
+---
+
+## 📰 Publications About DotPlus
+
+- [🟣 Habr — DotPlus: QR & Barcode Generator with CLI and GUI](https://habr.com/ru/articles/921570/)
 
 ---
 
