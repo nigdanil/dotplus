@@ -1,59 +1,31 @@
-
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: 'ru' }}">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{{ page.title }}</title>
-  <style>
-    body {
-      font-family: sans-serif;
-      margin: 0;
-      padding: 0 1rem;
-      background: #fff;
-      color: #111;
-    }
-    header {
-      display: flex;
-      justify-content: space-between;
-      padding: 1rem 0;
-      border-bottom: 1px solid #ddd;
-    }
-    .lang-toggle {
-      font-size: 0.9rem;
-    }
-    main {
-      max-width: 800px;
-      margin: auto;
-      padding-bottom: 3rem;
-    }
-    footer {
-      margin-top: 2rem;
-      border-top: 1px solid #eee;
-      padding-top: 1rem;
-      font-size: 0.9rem;
-      text-align: center;
-      color: #888;
-    }
-    video {
-      max-width: 100%;
-      margin: 1rem 0;
-      border: 1px solid #ccc;
-    }
-  </style>
+  <link rel="stylesheet" href="/dotplus/assets/style.css" />
 </head>
+
 <body>
   <header>
-    <h1>DotPlus</h1>
+    <a href="/dotplus/{{ page.lang }}/" class="logo-link">
+      <img src="/dotplus/assets/logo.png" alt="DotPlus logo">
+    </a>
+
     <div class="lang-toggle">
       <a href="/dotplus/ru/">🇷🇺</a> | <a href="/dotplus/en/">🇬🇧</a>
     </div>
   </header>
+
   <main>
     {{ content }}
   </main>
+
   <footer>
     &copy; 2025 DotPlus by @nigdanil
   </footer>
 </body>
+
 </html>

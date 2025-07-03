@@ -32,7 +32,7 @@ CLI + GUI. CSV input. Offline mode. Logo support. A4-ready printing.
 
 ## 🚀 Features
 
-- CLI + GUI (Windows / Linux)
+- CLI + GUI (Windows / Linux / Docker)
 - QR and barcodes (EAN-13, Code 39, etc.)
 - Export to PNG / PDF for A4
 - CSV support, logo overlay, customization
