@@ -14,14 +14,14 @@ CLI + GUI. Импорт из CSV. Работа офлайн. Логотипы. �
 
 ## 🎥 Как это работает?
 ### Графический интерфейс
-<video autoplay loop muted playsinline controls width="100%">
+<video loop muted playsinline controls width="100%">
   <source src="/dotplus/assets/video/GUI.mp4" type="video/mp4">
   Ваш браузер не поддерживает воспроизведение видео.
 </video>
 <p><em>↑ Демонстрация графического интерфейса</em></p>
 
 ### Командная строка
-<video autoplay loop muted playsinline controls width="100%">
+<video loop muted playsinline controls width="100%">
   <source src="/dotplus/assets/video/300_QR-Codes.mp4" type="video/mp4">
   Ваш браузер не поддерживает воспроизведение видео.
 </video>
@@ -39,6 +39,23 @@ CLI + GUI. Импорт из CSV. Работа офлайн. Логотипы. �
 
 ---
 
+<details open>
+<summary><strong>🆓 Бесплатные сферы применения</strong></summary>
+
+{% include_relative applying_free_ru.md %}
+
+</details>
+
+---
+
+<details>
+<summary><strong>💼 Платные сферы применения (PRO)</strong></summary>
+
+{% include_relative applying_pro_ru.md %}
+
+</details>
+
+---
 ## 📬 Контакты
 
 - GitHub: [nigdanil/dotplus](https://github.com/nigdanil/dotplus)

@@ -14,14 +14,14 @@ CLI + GUI. CSV input. Offline mode. Logo support. A4-ready printing.
 
 ## 🎥 How it works?
 ### GUI video
-<video autoplay loop muted playsinline controls width="100%">
+<video loop muted playsinline controls width="100%">
   <source src="/dotplus/assets/video/GUI.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <p><em>↑ Graphical user interface demonstration</em></p>
 
 ### CLI video
-<video autoplay loop muted playsinline controls width="100%">
+<video loop muted playsinline controls width="100%">
   <source src="/dotplus/assets/video/300_QR-Codes.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -37,6 +37,24 @@ CLI + GUI. CSV input. Offline mode. Logo support. A4-ready printing.
 - Export to PNG / PDF for A4
 - CSV support, logo overlay, customization
 - Works fully offline
+
+---
+
+<details open>
+<summary><strong>🆓 Free Usage Areas</strong></summary>
+
+{% include_relative applying_free_en.md %}
+
+</details>
+
+---
+
+<details>
+<summary><strong>💼 PRO Usage Areas (Paid)</strong></summary>
+
+{% include_relative applying_pro_en.md %}
+
+</details>
 
 ---
 
