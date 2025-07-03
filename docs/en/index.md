@@ -40,7 +40,7 @@ CLI + GUI. CSV input. Offline mode. Logo support. A4-ready printing.
 
 ---
 
-<details open>
+<details open markdown="1">
 <summary><strong>🆓 Free Usage Areas</strong></summary>
 
 {% include_relative applying_free_en.md %}
@@ -49,7 +49,7 @@ CLI + GUI. CSV input. Offline mode. Logo support. A4-ready printing.
 
 ---
 
-<details>
+<details open markdown="1">
 <summary><strong>💼 PRO Usage Areas (Paid)</strong></summary>
 
 {% include_relative applying_pro_en.md %}
