@@ -39,7 +39,7 @@ CLI + GUI. Импорт из CSV. Работа офлайн. Логотипы. �
 
 ---
 
-<details open markdown="1">
+<details markdown="1">
 <summary><strong>🆓 Бесплатные сферы применения</strong></summary>
 
 {% include_relative applying_free_ru.md %}
@@ -48,7 +48,7 @@ CLI + GUI. Импорт из CSV. Работа офлайн. Логотипы. �
 
 ---
 
-<details open markdown="1">
+<details markdown="1">
 <summary><strong>💼 Платные сферы применения (PRO)</strong></summary>
 
 {% include_relative applying_pro_ru.md %}
