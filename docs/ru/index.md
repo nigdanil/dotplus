@@ -36,14 +36,14 @@ CLI + GUI. Импорт из CSV. Работа офлайн. Логотипы. �
 <summary><strong>🖥️ Интерфейс (QR-коды)</strong></summary>
 
 <div class="screenshot-gallery">
-  <img src="/dotplus/assets/screenshots/ru/qr/ui/1.png" alt="GUI 1">
-  <img src="/dotplus/assets/screenshots/ru/qr/ui/2.png" alt="GUI 2">
-  <img src="/dotplus/assets/screenshots/ru/qr/ui/3.png" alt="GUI 3">
-  <img src="/dotplus/assets/screenshots/ru/qr/ui/4.png" alt="GUI 4">
-  <img src="/dotplus/assets/screenshots/ru/qr/ui/5.png" alt="GUI 5">
-  <img src="/dotplus/assets/screenshots/ru/qr/ui/6.png" alt="GUI 6">
-  <img src="/dotplus/assets/screenshots/ru/qr/ui/7.png" alt="GUI 7">
-  <img src="/dotplus/assets/screenshots/ru/qr/ui/8.png" alt="GUI 8">
+  <a href="/dotplus/assets/screenshots/ru/qr/ui/1.png" target="_blank"><img src="/dotplus/assets/screenshots/ru/qr/ui/1.png" alt="GUI 1"></a>
+  <a href="/dotplus/assets/screenshots/ru/qr/ui/2.png" target="_blank"><img src="/dotplus/assets/screenshots/ru/qr/ui/2.png" alt="GUI 2"></a>
+  <a href="/dotplus/assets/screenshots/ru/qr/ui/3.png" target="_blank"><img src="/dotplus/assets/screenshots/ru/qr/ui/3.png" alt="GUI 3"></a>
+  <a href="/dotplus/assets/screenshots/ru/qr/ui/4.png" target="_blank"><img src="/dotplus/assets/screenshots/ru/qr/ui/4.png" alt="GUI 4"></a>
+  <a href="/dotplus/assets/screenshots/ru/qr/ui/5.png" target="_blank"><img src="/dotplus/assets/screenshots/ru/qr/ui/5.png" alt="GUI 5"></a>
+  <a href="/dotplus/assets/screenshots/ru/qr/ui/6.png" target="_blank"><img src="/dotplus/assets/screenshots/ru/qr/ui/6.png" alt="GUI 6"></a>
+  <a href="/dotplus/assets/screenshots/ru/qr/ui/7.png" target="_blank"><img src="/dotplus/assets/screenshots/ru/qr/ui/7.png" alt="GUI 7"></a>
+  <a href="/dotplus/assets/screenshots/ru/qr/ui/8.png" target="_blank"><img src="/dotplus/assets/screenshots/ru/qr/ui/8.png" alt="GUI 8"></a>
 </div>
 
 </details>
@@ -54,9 +54,9 @@ CLI + GUI. Импорт из CSV. Работа офлайн. Логотипы. �
 <summary><strong>🖥️ Интерфейс (Штрихкоды)</strong></summary>
 
 <div class="screenshot-gallery">
-  <img src="/dotplus/assets/screenshots/ru/barcodes/ui/1.png" alt="GUI 1">
-  <img src="/dotplus/assets/screenshots/ru/barcodes/ui/2.png" alt="GUI 2">
-  <img src="/dotplus/assets/screenshots/ru/barcodes/ui/3.png" alt="GUI 3">
+  <a href="/dotplus/assets/screenshots/ru/barcodes/ui/1.png" target="_blank"><img src="/dotplus/assets/screenshots/ru/barcodes/ui/1.png" alt="GUI 1"></a>
+  <a href="/dotplus/assets/screenshots/ru/barcodes/ui/2.png" target="_blank"><img src="/dotplus/assets/screenshots/ru/barcodes/ui/2.png" alt="GUI 2"></a>
+  <a href="/dotplus/assets/screenshots/ru/barcodes/ui/3.png" target="_blank"><img src="/dotplus/assets/screenshots/ru/barcodes/ui/3.png" alt="GUI 3"></a>
 </div>
 
 </details>
@@ -69,8 +69,8 @@ CLI + GUI. Импорт из CSV. Работа офлайн. Логотипы. �
 <summary><strong>🔳 QR-коды</strong></summary>
 
 <div class="screenshot-gallery">
-  <img src="/dotplus/assets/screenshots/ru/qr/res/1.png" alt="QR-code-1">
-  <img src="/dotplus/assets/screenshots/ru/qr/res/2.png" alt="QR-code-2">
+  <a href="/dotplus/assets/screenshots/ru/qr/res/1.png" target="_blank"><img src="/dotplus/assets/screenshots/ru/qr/res/1.png" alt="QR-code-1"></a>
+  <a href="/dotplus/assets/screenshots/ru/qr/res/2.png" target="_blank"><img src="/dotplus/assets/screenshots/ru/qr/res/2.png" alt="QR-code-2"></a>
 </div>
 
 </details>
@@ -81,9 +81,9 @@ CLI + GUI. Импорт из CSV. Работа офлайн. Логотипы. �
 <summary><strong>🔳 Штрихкоды</strong></summary>
 
 <div class="screenshot-gallery">
-  <img src="/dotplus/assets/screenshots/ru/barcodes/res/1.png" alt="QR-code-1">
-  <img src="/dotplus/assets/screenshots/ru/barcodes/res/2.png" alt="QR-code-2">
-  <img src="/dotplus/assets/screenshots/ru/barcodes/res/3.png" alt="QR-code-3">
+  <a href="/dotplus/assets/screenshots/ru/barcodes/res/1.png" target="_blank"><img src="/dotplus/assets/screenshots/ru/barcodes/res/1.png" alt="QR-code-1"></a>
+  <a href="/dotplus/assets/screenshots/ru/barcodes/res/2.png" target="_blank"><img src="/dotplus/assets/screenshots/ru/barcodes/res/2.png" alt="QR-code-2"></a>
+  <a href="/dotplus/assets/screenshots/ru/barcodes/res/3.png" target="_blank"><img src="/dotplus/assets/screenshots/ru/barcodes/res/3.png" alt="QR-code-3"></a>
 </div>
 
 </details>

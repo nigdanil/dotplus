@@ -36,14 +36,14 @@ CLI + GUI. CSV input. Offline mode. Logo support. A4-ready printing.
 <summary><strong>🖥️ Interface (QR Codes)</strong></summary>
 
 <div class="screenshot-gallery">
-  <img src="/dotplus/assets/screenshots/en/qr/ui/1.png" alt="GUI 1">
-  <img src="/dotplus/assets/screenshots/en/qr/ui/2.png" alt="GUI 2">
-  <img src="/dotplus/assets/screenshots/en/qr/ui/3.png" alt="GUI 3">
-  <img src="/dotplus/assets/screenshots/en/qr/ui/4.png" alt="GUI 4">
-  <img src="/dotplus/assets/screenshots/en/qr/ui/5.png" alt="GUI 5">
-  <img src="/dotplus/assets/screenshots/en/qr/ui/6.png" alt="GUI 6">
-  <img src="/dotplus/assets/screenshots/en/qr/ui/7.png" alt="GUI 7">
-  <img src="/dotplus/assets/screenshots/en/qr/ui/8.png" alt="GUI 8">
+  <a href="/dotplus/assets/screenshots/en/qr/ui/1.png" target="_blank"><img src="/dotplus/assets/screenshots/en/qr/ui/1.png" alt="GUI 1"></a>
+  <a href="/dotplus/assets/screenshots/en/qr/ui/2.png" target="_blank"><img src="/dotplus/assets/screenshots/en/qr/ui/2.png" alt="GUI 2"></a>
+  <a href="/dotplus/assets/screenshots/en/qr/ui/3.png" target="_blank"><img src="/dotplus/assets/screenshots/en/qr/ui/3.png" alt="GUI 3"></a>
+  <a href="/dotplus/assets/screenshots/en/qr/ui/4.png" target="_blank"><img src="/dotplus/assets/screenshots/en/qr/ui/4.png" alt="GUI 4"></a>
+  <a href="/dotplus/assets/screenshots/en/qr/ui/5.png" target="_blank"><img src="/dotplus/assets/screenshots/en/qr/ui/5.png" alt="GUI 5"></a>
+  <a href="/dotplus/assets/screenshots/en/qr/ui/6.png" target="_blank"><img src="/dotplus/assets/screenshots/en/qr/ui/6.png" alt="GUI 6"></a>
+  <a href="/dotplus/assets/screenshots/en/qr/ui/7.png" target="_blank"><img src="/dotplus/assets/screenshots/en/qr/ui/7.png" alt="GUI 7"></a>
+  <a href="/dotplus/assets/screenshots/en/qr/ui/8.png" target="_blank"><img src="/dotplus/assets/screenshots/en/qr/ui/8.png" alt="GUI 8"></a>
 </div>
 
 </details>
@@ -54,9 +54,9 @@ CLI + GUI. CSV input. Offline mode. Logo support. A4-ready printing.
 <summary><strong>🖥️ Interface (Barcodes)</strong></summary>
 
 <div class="screenshot-gallery">
-  <img src="/dotplus/assets/screenshots/en/barcodes/ui/1.png" alt="GUI 1">
-  <img src="/dotplus/assets/screenshots/en/barcodes/ui/2.png" alt="GUI 2">
-  <img src="/dotplus/assets/screenshots/en/barcodes/ui/3.png" alt="GUI 3">
+  <a href="/dotplus/assets/screenshots/en/barcodes/ui/1.png" target="_blank"><img src="/dotplus/assets/screenshots/en/barcodes/ui/1.png" alt="GUI 1"></a>
+  <a href="/dotplus/assets/screenshots/en/barcodes/ui/2.png" target="_blank"><img src="/dotplus/assets/screenshots/en/barcodes/ui/2.png" alt="GUI 2"></a>
+  <a href="/dotplus/assets/screenshots/en/barcodes/ui/3.png" target="_blank"><img src="/dotplus/assets/screenshots/en/barcodes/ui/3.png" alt="GUI 3"></a>
 </div>
 
 </details>
@@ -69,8 +69,8 @@ CLI + GUI. CSV input. Offline mode. Logo support. A4-ready printing.
 <summary><strong>🔳 QR Codes</strong></summary>
 
 <div class="screenshot-gallery">
-  <img src="/dotplus/assets/screenshots/en/qr/res/1.png" alt="QR-code-1">
-  <img src="/dotplus/assets/screenshots/en/qr/res/2.png" alt="QR-code-2">
+  <a href="/dotplus/assets/screenshots/en/qr/res/1.png" target="_blank"><img src="/dotplus/assets/screenshots/en/qr/res/1.png" alt="QR-code-1"></a>
+  <a href="/dotplus/assets/screenshots/en/qr/res/2.png" target="_blank"><img src="/dotplus/assets/screenshots/en/qr/res/2.png" alt="QR-code-2"></a>
 </div>
 
 </details>
@@ -81,9 +81,9 @@ CLI + GUI. CSV input. Offline mode. Logo support. A4-ready printing.
 <summary><strong>🔳 Barcodes</strong></summary>
 
 <div class="screenshot-gallery">
-  <img src="/dotplus/assets/screenshots/en/barcodes/res/1.png" alt="Barcode-1">
-  <img src="/dotplus/assets/screenshots/en/barcodes/res/2.png" alt="Barcode-2">
-  <img src="/dotplus/assets/screenshots/en/barcodes/res/3.png" alt="Barcode-3">
+  <a href="/dotplus/assets/screenshots/en/barcodes/res/1.png" target="_blank"><img src="/dotplus/assets/screenshots/en/barcodes/res/1.png" alt="Barcode-1"></a>
+  <a href="/dotplus/assets/screenshots/en/barcodes/res/2.png" target="_blank"><img src="/dotplus/assets/screenshots/en/barcodes/res/2.png" alt="Barcode-2"></a>
+  <a href="/dotplus/assets/screenshots/en/barcodes/res/3.png" target="_blank"><img src="/dotplus/assets/screenshots/en/barcodes/res/3.png" alt="Barcode-3"></a>
 </div>
 
 </details>
