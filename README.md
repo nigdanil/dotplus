@@ -8,7 +8,7 @@
 > ❗ Программа распространяется как **бесплатное проприетарное ПО**, исходный код не публикуется. Подробнее — в разделе [Лицензия](#-лицензия).
 
 🔗 [DockerHub](https://hub.docker.com/r/nigdanil/dotplus-cli)  
-🌐 [Сайт](https://dot-plus.ru)  
+🌐 [Сайт](https://nigdanil.github.io/dotplus)  
 📬 [Поддержка](mailto:danil.communication@gmail.com) • [Telegram](https://t.me/NigDanil)
 
 ---
@@ -126,7 +126,7 @@ Built with Rust and embedded ImageMagick 6. CLI is supported, GUI mode is in dev
 > ❗ This is **freeware** with **no source code access**. See [License](#-license) for details.
 
 🔗 [DockerHub](https://hub.docker.com/r/nigdanil/dotplus-cli)
-🌐 [Website](https://dot-plus.ru)
+🌐 [Website](https://nigdanil.github.io/dotplus)
 📬 [Support](mailto:danil.communication@gmail.com) • [Telegram](https://t.me/NigDanil)
 
 ---
