@@ -135,6 +135,7 @@ Free for both personal and commercial use.
 ## 📰 Publications About DotPlus
 
 - [🟣 Habr — DotPlus: QR & Barcode Generator with CLI and GUI](https://habr.com/ru/articles/921570/)
+- [🟣 Habr — Cross-platform Rust A to Z: GUI + CLI + CI + Docker. Real-world delivery of DotPlus to Linux and ARM](https://habr.com/ru/articles/924976/)
 
 ---
 
